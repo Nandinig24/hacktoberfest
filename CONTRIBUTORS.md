@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Nandini Gupta](https://github.com/Nandinig24)
+- Place: Uttar Pradesh, India
+- Bio: Web developer and Competitive Programming Coder
+- Github: [Nandinig24](https://github.com/Nandinig24)
